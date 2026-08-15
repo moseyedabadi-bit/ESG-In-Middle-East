@@ -1,0 +1,26 @@
+schema_version: 1
+project:
+  name: ESG-In-Middle-East
+  type: regional-knowledge-index
+  status: evolving
+  domains:
+    - esg
+    - sustainability
+    - circular-economy
+    - middle-east
+  human_entry: README.md
+  ai_entry: llms.txt
+  source_index: index.md
+  author:
+    name: Mostafa Seyedabadi
+    role: Concept Steward / System Architect
+interpretation:
+  deployment_claim: false
+  institutional_endorsement_claim: false
+  authoritative_details_live_in_linked_repositories: true
+content_policy:
+  placeholders_are_authoritative: false
+  prefer_source_repository: true
+safety:
+  prohibit_secrets: true
+  prohibit_sensitive_data: true

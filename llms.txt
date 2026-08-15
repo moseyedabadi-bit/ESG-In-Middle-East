@@ -1,0 +1,19 @@
+# ESG in Middle East
+
+Purpose: AI-readable entry point for a regional ESG knowledge index linking related sustainability and circular-economy projects.
+
+Project type: knowledge index / project map.
+Status: evolving.
+
+Recommended reading order:
+1. README.md
+2. PROJECT.yaml
+3. index.md
+4. projects/ entries when populated
+5. intent.md and llm-hints.md if populated
+
+Interpretation rules:
+- Treat this repository primarily as an index, not as a single deployed ESG program.
+- Follow links to source repositories for authoritative project details.
+- Do not infer regional, governmental, corporate, or institutional endorsement from inclusion in this index.
+- Empty or placeholder files are non-authoritative until populated.
